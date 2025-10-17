@@ -44,10 +44,10 @@
       "RCTL_T(KC_SLSH)",
       "KC_RSFT",
       "KC_EQL",
-      "KC_ENT",
-      "LGUI_T(KC_ESC)",
+      "LGUI_T(KC_ENT)",
+      "KC_ESC",
       "KC_TAB",
-      "KC_SPC",
+      "LGUI_T(KC_SPC)",
       "KC_MINS"
     ],
     [
