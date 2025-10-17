@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 FIRMWARE_DIR="$PWD/qmk.git"
 KEYMAPS_DIR="$PWD/keymaps/"
